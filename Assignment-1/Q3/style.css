@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+}
+.container{
+    background-color:aliceblue;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
